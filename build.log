@@ -1,0 +1,54 @@
+
+> build
+> vite build
+
+[36mvite v7.2.7 [32mbuilding client environment for production...[36m[39m
+[plugin @laravel/vite-plugin-wayfinder] Types generated for actions, routes, form variants
+transforming...
+[32m✓[39m 2733 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mpublic/build/[22m[32mmanifest.json                            [39m[1m[2m   15.59 kB[22m[1m[22m[2m │ gzip:   1.65 kB[22m
+[2mpublic/build/[22m[35massets/app-Di0MfRra.css                  [39m[1m[2m   91.55 kB[22m[1m[22m[2m │ gzip:  15.38 kB[22m
+[2mpublic/build/[22m[36massets/check-BK1KmUaC.js                 [39m[1m[2m    0.13 kB[22m[1m[22m[2m │ gzip:   0.15 kB[22m
+[2mpublic/build/[22m[36massets/loader-circle-Dyy2YWao.js         [39m[1m[2m    0.15 kB[22m[1m[22m[2m │ gzip:   0.16 kB[22m
+[2mpublic/build/[22m[36massets/index-BCC4ahRc.js                 [39m[1m[2m    0.37 kB[22m[1m[22m[2m │ gzip:   0.22 kB[22m
+[2mpublic/build/[22m[36massets/input-error-CZyx-HtG.js           [39m[1m[2m    0.44 kB[22m[1m[22m[2m │ gzip:   0.32 kB[22m
+[2mpublic/build/[22m[36massets/spinner-bcruDsQM.js               [39m[1m[2m    0.46 kB[22m[1m[22m[2m │ gzip:   0.33 kB[22m
+[2mpublic/build/[22m[36massets/heading-D4gS_lzT.js               [39m[1m[2m    0.47 kB[22m[1m[22m[2m │ gzip:   0.33 kB[22m
+[2mpublic/build/[22m[36massets/index-Bhh5jUqs.js                 [39m[1m[2m    0.57 kB[22m[1m[22m[2m │ gzip:   0.41 kB[22m
+[2mpublic/build/[22m[36massets/text-link-9O948JXC.js             [39m[1m[2m    0.61 kB[22m[1m[22m[2m │ gzip:   0.40 kB[22m
+[2mpublic/build/[22m[36massets/sun-DFdxiQ2D.js                   [39m[1m[2m    0.79 kB[22m[1m[22m[2m │ gzip:   0.41 kB[22m
+[2mpublic/build/[22m[36massets/label-CHpMh6Mc.js                 [39m[1m[2m    0.84 kB[22m[1m[22m[2m │ gzip:   0.53 kB[22m
+[2mpublic/build/[22m[36massets/input-x6G7ERsF.js                 [39m[1m[2m    1.05 kB[22m[1m[22m[2m │ gzip:   0.59 kB[22m
+[2mpublic/build/[22m[36massets/verify-email-DVL-5hKs.js          [39m[1m[2m    1.39 kB[22m[1m[22m[2m │ gzip:   0.77 kB[22m
+[2mpublic/build/[22m[36massets/confirm-password-Bhw4Cst4.js      [39m[1m[2m    1.47 kB[22m[1m[22m[2m │ gzip:   0.74 kB[22m
+[2mpublic/build/[22m[36massets/index-DZxzsgmi.js                 [39m[1m[2m    1.50 kB[22m[1m[22m[2m │ gzip:   0.52 kB[22m
+[2mpublic/build/[22m[36massets/auth-layout-pnTsiu-U.js           [39m[1m[2m    1.82 kB[22m[1m[22m[2m │ gzip:   0.85 kB[22m
+[2mpublic/build/[22m[36massets/forgot-password-mvoVBk5F.js       [39m[1m[2m    2.04 kB[22m[1m[22m[2m │ gzip:   0.97 kB[22m
+[2mpublic/build/[22m[36massets/appearance-Bt4wWRGB.js            [39m[1m[2m    2.05 kB[22m[1m[22m[2m │ gzip:   1.04 kB[22m
+[2mpublic/build/[22m[36massets/reset-password-Dg-H8LvX.js        [39m[1m[2m    2.34 kB[22m[1m[22m[2m │ gzip:   0.97 kB[22m
+[2mpublic/build/[22m[36massets/Create-oaSzyhrH.js                [39m[1m[2m    2.40 kB[22m[1m[22m[2m │ gzip:   1.18 kB[22m
+[2mpublic/build/[22m[36massets/dashboard-BCOb3idu.js             [39m[1m[2m    2.58 kB[22m[1m[22m[2m │ gzip:   0.94 kB[22m
+[2mpublic/build/[22m[36massets/Edit-ZMPbO_QF.js                  [39m[1m[2m    2.66 kB[22m[1m[22m[2m │ gzip:   1.36 kB[22m
+[2mpublic/build/[22m[36massets/index-vZYIBGLo.js                 [39m[1m[2m    2.76 kB[22m[1m[22m[2m │ gzip:   0.71 kB[22m
+[2mpublic/build/[22m[36massets/index-C4J_hXM0.js                 [39m[1m[2m    2.80 kB[22m[1m[22m[2m │ gzip:   0.85 kB[22m
+[2mpublic/build/[22m[36massets/register-BF8nhIyc.js              [39m[1m[2m    2.80 kB[22m[1m[22m[2m │ gzip:   1.10 kB[22m
+[2mpublic/build/[22m[36massets/Show-Daa0zuvP.js                  [39m[1m[2m    2.86 kB[22m[1m[22m[2m │ gzip:   1.24 kB[22m
+[2mpublic/build/[22m[36massets/two-factor-challenge-DcULrrcO.js  [39m[1m[2m    2.92 kB[22m[1m[22m[2m │ gzip:   1.37 kB[22m
+[2mpublic/build/[22m[36massets/password-5yE-AHmu.js              [39m[1m[2m    3.90 kB[22m[1m[22m[2m │ gzip:   1.38 kB[22m
+[2mpublic/build/[22m[36massets/dialog-wp5dYMhP.js                [39m[1m[2m    4.00 kB[22m[1m[22m[2m │ gzip:   1.18 kB[22m
+[2mpublic/build/[22m[36massets/index-DmMlQonR.js                 [39m[1m[2m    4.13 kB[22m[1m[22m[2m │ gzip:   0.83 kB[22m
+[2mpublic/build/[22m[36massets/layout-wuNrxA4k.js                [39m[1m[2m    4.29 kB[22m[1m[22m[2m │ gzip:   1.70 kB[22m
+[2mpublic/build/[22m[36massets/index-OJBg3rId.js                 [39m[1m[2m    4.91 kB[22m[1m[22m[2m │ gzip:   2.07 kB[22m
+[2mpublic/build/[22m[36massets/profile-C2lWrbNp.js               [39m[1m[2m    7.08 kB[22m[1m[22m[2m │ gzip:   2.46 kB[22m
+[2mpublic/build/[22m[36massets/login-BunYgbVZ.js                 [39m[1m[2m    7.32 kB[22m[1m[22m[2m │ gzip:   3.02 kB[22m
+[2mpublic/build/[22m[36massets/use-two-factor-auth-Cq6R6SF2.js   [39m[1m[2m   13.57 kB[22m[1m[22m[2m │ gzip:   5.42 kB[22m
+[2mpublic/build/[22m[36massets/transition-ByOeeBt4.js            [39m[1m[2m   14.15 kB[22m[1m[22m[2m │ gzip:   5.63 kB[22m
+[2mpublic/build/[22m[36massets/two-factor-Dgh42ssn.js            [39m[1m[2m   20.55 kB[22m[1m[22m[2m │ gzip:   6.85 kB[22m
+[2mpublic/build/[22m[36massets/app-logo-icon-DtKbySey.js         [39m[1m[2m   31.05 kB[22m[1m[22m[2m │ gzip:  10.63 kB[22m
+[2mpublic/build/[22m[36massets/welcome-hZ-ij35P.js               [39m[1m[2m   50.15 kB[22m[1m[22m[2m │ gzip:   9.55 kB[22m
+[2mpublic/build/[22m[36massets/app-layout-DZAfzMvN.js            [39m[1m[2m  120.93 kB[22m[1m[22m[2m │ gzip:  38.43 kB[22m
+[2mpublic/build/[22m[36massets/app-6uWBWcO0.js                   [39m[1m[2m  349.96 kB[22m[1m[22m[2m │ gzip: 114.21 kB[22m
+[2mpublic/build/[22m[36massets/Index-CgLiDgpM.js                 [39m[1m[33m1,136.66 kB[39m[22m[2m │ gzip: 324.63 kB[22m
+[32m✓ built in 10.66s[39m
